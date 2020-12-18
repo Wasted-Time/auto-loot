@@ -5,7 +5,6 @@
 /8 Channel | Effect description
 --- | ---
 loot auto | Turn on/off auto Pick up
---- | ---
 loot | Turn on/off
 
 ---

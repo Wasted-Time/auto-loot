@@ -1,0 +1,18 @@
+{
+	"files": {
+		"config.js": {
+			"overwrite": false,
+			"hash": "7ad19b8a78f5292059f2d31a9974029d3c71d73ab14d99b75701afbe88345d7b"
+		},
+		"index.js": "d24c6bfa0af08f2b65f88814ae61cc5ce6d03b0bc321aa69f86d87653a64aa4d",
+		"module.json": "4ed019900213d703cb30ad1bb47f14244abe9dadfc618869ce2c8763d59f3188"
+	},
+	"defs": {
+		"C_PLAYER_LOCATION": 5,
+		"C_TRY_LOOT_DROPITEM": 4,
+		"S_DESPAWN_DROPITEM": 4,
+		"S_RETURN_TO_LOBBY": 1,
+		"S_SPAWN_DROPITEM": 9,
+		"S_SYSTEM_MESSAGE": 1
+	}
+}
